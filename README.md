@@ -1,6 +1,6 @@
 # SebastianEchazu.NET
 
-Este es un pagina de presentación de mi proyecto a modo introductorio . Contiene enlaces a varios proyectos en lo que he trabajado. 
+Este es un pagina de presentación. Contiene una Breve descripcion de mi persona y enlaces a varios proyectos en lo que he trabajado. 
 
 ## 🛠️ Construido con :
 
