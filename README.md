@@ -7,6 +7,8 @@ Este es un pagina de presentación. Contiene una Breve descripcion de mi persona
 * [HTML5](https://developer.mozilla.org/es/docs/HTML/HTML5) 
 * [Bootstrap](https://getbootstrap.com/) 
 * [Jquery](https://jquery.com/) 
+* [Kwes](https://kwes.io)
+) 
 
 ## ✒️ Autores
 
@@ -16,6 +18,7 @@ Este es un pagina de presentación. Contiene una Breve descripcion de mi persona
 * [Instagram](https://www.instagram.com/seba_storm)
 * [Twitter](https://twitter.com/seba_storm)
 * [Github](https://github.com/SebastianEchazu)
+
 
 ## 📄 Licencia 
 
