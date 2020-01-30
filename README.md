@@ -7,7 +7,7 @@ Este es un pagina de presentación. Contiene una Breve descripcion de mi persona
 * [HTML5](https://developer.mozilla.org/es/docs/HTML/HTML5) 
 * [Bootstrap](https://getbootstrap.com/) 
 * [Jquery](https://jquery.com/) 
-* [Kwes](https://kwes.io)
+* [Kwes](https://kwes.io) - formulario de contacto
 ) 
 
 ## ✒️ Autores
