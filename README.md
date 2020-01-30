@@ -7,8 +7,7 @@ Este es un pagina de presentación. Contiene una Breve descripcion de mi persona
 * [HTML5](https://developer.mozilla.org/es/docs/HTML/HTML5) 
 * [Bootstrap](https://getbootstrap.com/) 
 * [Jquery](https://jquery.com/) 
-* [Kwes](https://kwes.io) - formulario de contacto
-) 
+* [Kwes](https://kwes.io)
 
 ## ✒️ Autores
 
@@ -22,7 +21,7 @@ Este es un pagina de presentación. Contiene una Breve descripcion de mi persona
 
 ## 📄 Licencia 
 
-Este proyecto está bajo la Licencia **Creative Commons** - mira el enlace a la [licencia](**Creative Commons** ) para detalles
+Este proyecto está bajo la Licencia **Creative Commons** - mira el enlace a la [licencia](http://creativecommons.org/licenses/by/4.0/ ) para detalles.
 
 ## 🎁 Expresiones de Gratitud 
 
