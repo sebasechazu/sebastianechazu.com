@@ -1,6 +1,8 @@
 # SebastianEchazu.com
 
-Este es un pagina de presentación. Contiene una Breve descripcion de mi persona y enlaces a varios proyectos en lo que he trabajado. 
+Este es un pagina de presentación. Contiene una Breve descripción de mi persona y enlaces a varios proyectos en lo que he trabajado. 
+
+![imagen de presentacion](portada.png)
 
 ## 🛠️ Construido con :
 
