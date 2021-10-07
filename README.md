@@ -2,8 +2,6 @@
 
 Este es un pagina de presentación. Contiene una Breve descripción de mi persona y enlaces a varios proyectos en lo que he trabajado. 
 
-![portada](Portada.png)
-
 ## 🛠️ Construido con :
 
 * [HTML5](https://developer.mozilla.org/es/docs/HTML/HTML5) 
