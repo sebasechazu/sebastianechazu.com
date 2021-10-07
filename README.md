@@ -8,17 +8,6 @@ Este es un pagina de presentación. Contiene una Breve descripción de mi person
 * [Bootstrap](https://getbootstrap.com/) 
 * [Jquery](https://jquery.com/) 
 
-## ✒️ Autor
-
-**Sebastián Echazú** 
-
-* [Web](https://sebastianechazu.com/)
-* [Facebook](https://www.facebook.com/sebastian.echazu.1)
-* [Instagram](https://www.instagram.com/seba_storm)
-* [Twitter](https://twitter.com/seba_storm)
-* [Github](https://github.com/SebastianEchazu)
-
-
 ## 📄 Licencia 
 
 Este proyecto está bajo la Licencia **Creative Commons** - mira el enlace a la [licencia](http://creativecommons.org/licenses/by/4.0/ ) para detalles.
