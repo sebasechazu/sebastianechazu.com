@@ -1,6 +1,6 @@
 # Web de Presentacion [sebastianechazu.com](https://sebastianechazu.com/)
 
-Este es un pagina de presentación. Contiene una Breve descripción de mi persona y enlaces a varios proyectos en lo que he trabajado. 
+Esta en mi pagina personal de presentacion. Contiene una Breve descripción de mi persona y imformacion sobre mis intereses. 
 
 ## 🛠️ Construido con :
 
